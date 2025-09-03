@@ -1,0 +1,14 @@
+graphical_culture = westerngfx
+color = { 200 20 20 }
+
+leader_names = {
+	"'the George'"
+}
+monarch_names = {
+	"king" = 10
+}
+ship_names = {
+	#Kheteratan
+	Akal Flame Fire Blaze Burn Elephant Ox Hawk Sovereign King Palace Oasis Elikhet Conqueror Preserver 
+	Nirakhet Tiger Crocodile "The Wanderer" "The Provider" "The Renouncer"
+}

@@ -1,0 +1,2 @@
+wso_continent = { 2 }
+
