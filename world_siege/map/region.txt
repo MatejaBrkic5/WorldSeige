@@ -1,0 +1,3 @@
+wso_region = {
+ areas = { wso_heartland_area }
+}
