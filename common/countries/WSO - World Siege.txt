@@ -1,14 +1,11 @@
 graphical_culture = westerngfx
-color = { 200 20 20 }
+color = { 180 29 29 }
 
-leader_names = {
-	"'the George'"
-}
-monarch_names = {
-	"king" = 10
-}
-ship_names = {
-	#Kheteratan
-	Akal Flame Fire Blaze Burn Elephant Ox Hawk Sovereign King Palace Oasis Elikhet Conqueror Preserver 
-	Nirakhet Tiger Crocodile "The Wanderer" "The Provider" "The Renouncer"
-}
+monarch_names = { "Regent #1" = 100 "Matthew #1" = 50 "John #1" = 50 "Edward #1" = 50
+                  "William #1" = 50 "Thomas #1" = 50 "Stephen #1" = 50 "Henry #1" = 50
+                  "Charles #1" = 50 "Robert #1" = 50 }
+
+leader_names = { Leman Bastion Rampart Keep Garrison Palisade Trebuchet Ballista Sapper Ward }
+
+ship_names = { "Breakwater" "Battering Ram" "Ironwall" "Stone Lance" "Sea Tower"
+               "Storm Rampart" "Bulwark" "Harbor Gate" "Sea Bastion" "Ravelin" }

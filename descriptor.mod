@@ -3,7 +3,7 @@ tags={
 	"Alternative History"
 }
 name="World Siege Overhaul"
-supported_version="v1.37.5.0"
+supported_version="1.37.*"
 
 replace_path="map"
 #replace_path="history/provinces"
